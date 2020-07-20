@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Starter for the official Gatsby blog and notes themes.
+  Starter for the Gatsby themes.
 </h1>
 
 Quickly get started using the Gatsby blog theme, and notes theme, together! This starter creates a new Gatsby site that is preconfigured to work with the [blog theme](https://www.npmjs.com/package/gatsby-theme-blog) and the [notes theme](https://www.npmjs.com/package/gatsby-theme-notes), in harmony.
@@ -84,7 +84,7 @@ gatsby-starter-theme
 
 9.  **`README.md`**: A text file containing useful reference information about your project.
 
-## 🎓 Learning Gatsby
+## 🎓 Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/).
 
