@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    `gatsby-theme-material-ui`,
     'gatsby-plugin-theme-ui',
     {
       resolve: `gatsby-theme-notes`,
